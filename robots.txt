@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://camilagalindop.github.io/al-folio/sitemap.xml
+Sitemap: https://camilagalindop.github.io/sitemap.xml
