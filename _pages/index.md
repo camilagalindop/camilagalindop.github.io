@@ -8,11 +8,6 @@ profile:
   align: right
   image: Galindo_Bogota_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Department of Economics, Universidad de los Andes</p>
-    <p>Office W-914</p>
-    <p>Calle 19A No 1-37 Este, Bogotá</p>
-	<a href="mailto:camilagalindo@uniandes.edu.co">camilagalindo@uniandes.edu.co</a>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
