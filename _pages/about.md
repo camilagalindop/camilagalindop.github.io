@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: #
+subtitle: ""
 
 profile:
   align: right
@@ -15,7 +15,7 @@ profile:
 	<p><a href="mailto:camilagalindo@uniandes.edu.co">camilagalindo@uniandes.edu.co</a></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
 I am an Assistant Professor of Economics at Universidad de los Andes. 
