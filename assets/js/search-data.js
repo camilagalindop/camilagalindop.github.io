@@ -53,25 +53,11 @@ ninja.data = [{
           window.open("mailto:%63%61%6D%69%6C%61%67%61%6C%69%6E%64%6F@%75%6E%69%61%6E%64%65%73.%65%64%75.%63%6F", "_blank");
         },
       },{
-        id: 'social-github',
-        title: 'GitHub',
+        id: 'social-rss',
+        title: 'RSS Feed',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/camilagalindop", "_blank");
-        },
-      },{
-        id: 'social-linkedin',
-        title: 'LinkedIn',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.linkedin.com/in/camila-galindo-765b73a7", "_blank");
-        },
-      },{
-        id: 'social-x',
-        title: 'X',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://twitter.com/camilagalindop", "_blank");
+          window.open("/feed.xml", "_blank");
         },
       },{
         id: 'social-custom_social',
