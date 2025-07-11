@@ -193,8 +193,8 @@
         </a>
       {% endif %}
       {% if entry.abstract %}
-        <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
-      {% endif %}
+	    <a class="btn btn-sm z-depth-0 toggle-abstract" role="button">Abs</a>
+	  {% endif %}
       {% if entry.doi %}
         <a href="https://doi.org/{{ entry.doi }}" class="btn btn-sm z-depth-0" role="button">DOI</a>
       {% endif %}
@@ -202,7 +202,7 @@
         <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
       {% endif %}
       {% if entry.bibtex_show %}
-        <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
+        <a class="btn btn-sm z-depth-0 toggle-bibtex" role="button">Bib</a>
       {% endif %}
       {% if entry.html %}
         {% if entry.html contains '://' %}
@@ -345,17 +345,15 @@
         <p>{{ entry.award | markdownify }}</p>
       </div>
     {% endif %}
-
-    {% if entry.abstract %}
-      <!-- Hidden abstract block -->
-      <div class="abstract hidden">
+	
+	{% if entry.abstract %}
+      <div class="abstract-content hidden">
         <p>{{ entry.abstract }}</p>
       </div>
     {% endif %}
 
     {% if entry.bibtex_show %}
-      <!-- Hidden bibtex block -->
-      <div class="bibtex hidden">
+      <div class="bibtex-content hidden">
         {% highlight bibtex %}
         {{- entry.bibtex | hideCustomBibtex -}}
         {% endhighlight %}
