@@ -65,18 +65,15 @@ nav_order: 1
 </div>
 </details>
 
-https://www.nber.org/papers/w30178
-
-
 <div class="two-vertical-space"></div>
 <span style="font-size: 1.2em; font-weight: bold;">Labor Market Effects of Short-Cycle Higher Education Programs: Lessons from Colombia</span> (with [María Marta Ferreyra](https://sites.google.com/site/mariamartaferreyraphd/) and [Sergio Urzúa](https://econweb.umd.edu/~urzua/))
 <div style="margin-left: 1em;">
   Revised and Resubmitted at <code>Journal of Human Capital</code>.
 </div>
 <div class="threequarter-vertical-space"></div>
+<details title="show abstract">
 &nbsp; <!-- Add a non-breaking space here -->
 <a href="https://www.nber.org/papers/w30178" title="go to paper">[NBER Working Paper]</a>
-<details title="show abstract">
 <summary>
 <span style="color: var(--global-theme-color); font-weight: bold;">[Abstract]</span>
 </summary>
