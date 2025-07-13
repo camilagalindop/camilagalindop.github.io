@@ -9,8 +9,7 @@ profile:
   image: Galindo_Bogota_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Department of Economics</p>
-	<p>Universidad de los Andes</p>
+    <p>Universidad de los Andes</p>
     <p>Office W-914</p>
     <p>Calle 19A No 1-37 Este, Bogotá</p>
 
