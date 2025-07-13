@@ -65,9 +65,9 @@ nav_order: 1
 
 
 <div class="two-vertical-space"></div>
-<span style="font-size: 1.2em; font-weight: bold;">Labor Market Effects of Short-Cycle Higher Education Programs: Lessons from Colombia</span> (with María Marta Ferreyra and Sergio Urzúa)
+<span style="font-size: 1.2em; font-weight: bold;">Labor Market Effects of Short-Cycle Higher Education Programs: Lessons from Colombia</span> (with [María Marta Ferreyra](https://sites.google.com/site/mariamartaferreyraphd/) and [Sergio Urzúa](https://econweb.umd.edu/~urzua/))
 <div style="margin-left: 1em;">
-  Revised and Resubmitted at <code>Journal of Human Capital</code>..
+  Revised and Resubmitted at <code>Journal of Human Capital</code>.
 </div>
 <div class="threequarter-vertical-space"></div>
 <details title="show abstract">
@@ -81,7 +81,7 @@ nav_order: 1
 </details>
 
 <div class="two-vertical-space"></div>
-<span style="font-size: 1.2em; font-weight: bold;">A Seat and a Meal: Dynamic Complementarities between Preschool and School Feeding in Colombia</span> (with Fabio Sánchez)
+<span style="font-size: 1.2em; font-weight: bold;">A Seat and a Meal: Dynamic Complementarities between Preschool and School Feeding in Colombia</span> (with [Fabio Sánchez](https://sites.google.com/view/fabio-sanchez-torres))
 <div style="font-size: 0.95em; margin-left: 1em;">
 </div>
 <div style="margin-left: 1em;>
@@ -99,7 +99,7 @@ nav_order: 1
 </details>
 
 <div class="two-vertical-space"></div>
-<span style="font-size: 1.2em; font-weight: bold;">Challenging Traditions: understanding the environment and conflict in Africa</span> (with Angela Doku)
+<span style="font-size: 1.2em; font-weight: bold;">Challenging Traditions: Understanding the Environment and Conflict in Africa</span> (with [Angela Doku](https://sites.google.com/view/angeladoku/home?authuser=0))
 <div style="font-size: 0.95em; margin-left: 1em;">
 </div>
 <div class="threequarter-vertical-space"></div>
@@ -131,7 +131,7 @@ nav_order: 1
 </div>
 
 <div class="two-vertical-space"></div>
-<span style="font-size: 0.95em; font-weight: bold;">Maternal health complications at delivery: Evidence from OBGYN services' closures in Colombia</span> (with Susana Otálvaro-Ramírez and Amalia Rodríguez-Valencia)
+<span style="font-size: 0.95em; font-weight: bold;">Maternal Health Complications at Delivery: Evidence from OBGYN Services' Closures in Colombia</span> (with Susana Otálvaro-Ramírez and Amalia Rodríguez-Valencia)
 <div style="font-size: 0.95em; margin-left: 1em;">
 </div>
 
