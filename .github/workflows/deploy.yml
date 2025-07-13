@@ -76,7 +76,7 @@ jobs:
         with:
           ruby-version: "3.3.5"
           bundler-cache: false
-          bundler-args: ""  # 👈 disables deployment/frozen mode
+          bundler: none  # ⛔ prevents setup-ruby from running `bundle install` at all
       - name: Setup Python 🐍
         uses: actions/setup-python@v5
         with:
@@ -94,12 +94,9 @@ jobs:
           sudo apt-get update && sudo apt-get install -y imagemagick
           pip3 install --upgrade nbconvert
           
-          # 🚫 disable frozen mode
-          rm -f .bundle/config
           bundle config set --local frozen false
-          bundle config unset --local deployment
-          
           bundle install
+          
           export JEKYLL_ENV=production
           bundle exec jekyll build
       - name: Purge unused CSS 🧹
