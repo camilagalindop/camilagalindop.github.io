@@ -147,11 +147,25 @@ nav_order: 1
 
 ## publications
 
-<!-- _pages/research.md -->
-<div class="research">
+<div class="two-vertical-space"></div>
+<span style="font-size: 1.2em; font-weight: bold;">Gender Gaps in Knowledge, Attitudes, and Practices Related to Environmental Degradation in Colombia</span> (2025)
+<span style="font-size: 1em">with Aguilar-Gomez, Juan Camilo Cardenas, Jorge Rodriguez-Arenas, and Daniela Vlasak-Gonzalez) </span>
+<span style="font-size: 1em"><code>Environmental Research: Climate 4(2)</code> </span>
 
-{% bibliography %}
 
+<div class="threequarter-vertical-space"></div>
+<details title="show abstract">
+<summary>
+<span style="color: var(--global-theme-color); font-weight: bold;">[Abstract]</span>
+&nbsp; <!-- Add a non-breaking space here -->
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4764978" title="go to paper">[Link]</a>
+</summary>
+<div class="half-vertical-space"></div>
+<div style="margin-left: 2em;">
+  Environmental degradation is a major public policy challenge, with the Global South being particularly vulnerable to its effects. In developing countries, women and girls often bear a greater burden of climate change and air pollution than men and boys do. While international research suggests that women tend to be more concerned about environmental issues and to adopt more sustainable practices, studies on this topic in the Global South remain scarce. This study examines gender differences in environmental knowledge, attitudes, and practices among secondary school students in Colombia. Our results confirm gender differences in the attitudes dimension, with few statistically significant differences in the other two components. Overall, concern about environmental degradation is high, with half of the respondents ranking it as the most severe issue in their communities and globally. However, girls express greater concern for the environment and feel more responsible for climate change (8–10 percentage points more than boys). We also provide new insights into girls’ greater awareness and familiarity with indoor air pollution (IAP) (a difference of 8.5–9 percentage points), consistently with previous findings documenting a gender gap in exposure to IAP. Our findings can help design and develop inclusive education policies for climate adaptation and mitigation, particularly in Global South countries, in order to empower students in the face of climate change.
 </div>
+</details>
+
+https://iopscience.iop.org/article/10.1088/2752-5295/adcb62
 
 <br>  <!-- Insert a line break here -->
