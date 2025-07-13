@@ -56,12 +56,16 @@ nav_order: 1
 <details title="show abstract">
 <summary>
 <span style="color: var(--global-theme-color); font-weight: bold;">[Abstract]</span>
+&nbsp; <!-- Add a non-breaking space here -->
+<a href="/assets/pdf/CRT_CGP_revised.pdf" title="go to paper">[PDF]</a>
 </summary>
 <div class="half-vertical-space"></div>
 <div style="margin-left: 2em;">
   I study treatment effects under multiple options that lack a clear ranking. When the identifying variation stems from multiple instruments, agents can switch into different options and from many initial states. I discuss how to define and employ conditional response types (i.e., combinations of potential choices given by one instrument that differ depending on the variation of other instruments) to identify the shares of agents switching at well-defined margins of choice and their treatment effects. I present an empirical strategy consistent with this framework and apply it to three settings: subsidies for malaria treatment in Kenya, childcare choice and children’s development in Colombia, and merit- and need-based scholarships for higher education in Colombia. While standard methods would identify the local average treatment effect of one option versus the next-best (i.e., a combination of fallback alternatives), I show how combining multiple sources of variation and defining conditional response types can help identify effects of pairwise combinations of the available options across these settings.
 </div>
 </details>
+
+https://www.nber.org/papers/w30178
 
 
 <div class="two-vertical-space"></div>
@@ -70,6 +74,8 @@ nav_order: 1
   Revised and Resubmitted at <code>Journal of Human Capital</code>.
 </div>
 <div class="threequarter-vertical-space"></div>
+&nbsp; <!-- Add a non-breaking space here -->
+<a href="https://www.nber.org/papers/w30178" title="go to paper">[NBER Working Paper]</a>
 <details title="show abstract">
 <summary>
 <span style="color: var(--global-theme-color); font-weight: bold;">[Abstract]</span>
