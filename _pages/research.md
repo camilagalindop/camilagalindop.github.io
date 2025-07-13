@@ -149,8 +149,7 @@ nav_order: 1
 
 <div class="two-vertical-space"></div>
 <span style="font-size: 1em; font-weight: bold;">Gender Gaps in Knowledge, Attitudes, and Practices Related to Environmental Degradation in Colombia</span> (2025)
-<span style="font-size: 1em">, with Aguilar-Gomez, Juan Camilo Cardenas, Jorge Rodriguez-Arenas, and Daniela Vlasak-Gonzalez) </span>
-<span style="font-size: 1em"><code>Environmental Research: Climate 4(2)</code> </span>
+<span style="font-size: 1em">, with Aguilar-Gomez, Juan Camilo Cardenas, Jorge Rodriguez-Arenas, and Daniela Vlasak-Gonzalez, <code>Environmental Research: Climate 4(2)</code> </span>
 
 
 <div class="threequarter-vertical-space"></div>
