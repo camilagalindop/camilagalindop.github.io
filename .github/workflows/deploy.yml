@@ -96,6 +96,7 @@ jobs:
           # 🚫 disable frozen mode
           rm -f .bundle/config
           bundle config set --local frozen false
+          bundle config unset --local deployment
           
           bundle install
           export JEKYLL_ENV=production

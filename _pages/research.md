@@ -84,7 +84,7 @@ nav_order: 1
 <span style="font-size: 1.2em; font-weight: bold;">A Seat and a Meal: Dynamic Complementarities between Preschool and School Feeding in Colombia</span> (with [Fabio Sánchez](https://sites.google.com/view/fabio-sanchez-torres))
 <div style="font-size: 0.95em; margin-left: 1em;">
 </div>
-<div style="margin-left: 1em;>
+<div style="margin-left: 1em;">
   Draft coming soon.
 </div>
 <div class="threequarter-vertical-space"></div>
