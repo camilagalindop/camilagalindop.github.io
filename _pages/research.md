@@ -72,10 +72,10 @@ nav_order: 1
 </div>
 <div class="threequarter-vertical-space"></div>
 <details title="show abstract">
-&nbsp; <!-- Add a non-breaking space here -->
-<a href="https://www.nber.org/papers/w30178" title="go to paper">[NBER Working Paper]</a>
 <summary>
 <span style="color: var(--global-theme-color); font-weight: bold;">[Abstract]</span>
+&nbsp; <!-- Add a non-breaking space here -->
+<a href="https://www.nber.org/papers/w30178" title="go to paper">[NBER Working Paper]</a>
 </summary>
 <div class="half-vertical-space"></div>
 <div style="margin-left: 2em;">
