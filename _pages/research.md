@@ -49,7 +49,7 @@ nav_order: 1
 
 <div class="half-vertical-space"></div> <!-- Add a small vertical space here -->
 
-<span style="font-size: 1.2em; font-weight: bold;">TITLE 1</span> (with COAUTHORS 1)
+<span style="font-size: 1.2em; font-weight: bold;">Conditional Response Types and the Identification of Multivalued Treatment Effects</span>
 <div style="font-size: 0.95em; margin-left: 1em;">
 </div>
 <div class="threequarter-vertical-space"></div>
@@ -59,13 +59,49 @@ nav_order: 1
 </summary>
 <div class="half-vertical-space"></div>
 <div style="margin-left: 2em;">
-  ABSTRACT 1
+  I study treatment effects under multiple options that lack a clear ranking. When the identifying variation stems from multiple instruments, agents can switch into different options and from many initial states. I discuss how to define and employ conditional response types (i.e., combinations of potential choices given by one instrument that differ depending on the variation of other instruments) to identify the shares of agents switching at well-defined margins of choice and their treatment effects. I present an empirical strategy consistent with this framework and apply it to three settings: subsidies for malaria treatment in Kenya, childcare choice and children’s development in Colombia, and merit- and need-based scholarships for higher education in Colombia. While standard methods would identify the local average treatment effect of one option versus the next-best (i.e., a combination of fallback alternatives), I show how combining multiple sources of variation and defining conditional response types can help identify effects of pairwise combinations of the available options across these settings.
 </div>
 </details>
 
 
 <div class="two-vertical-space"></div>
-<span style="font-size: 1.2em; font-weight: bold;">TITLE 2</span> (with COAUTHOR 2)
+<span style="font-size: 1.2em; font-weight: bold;">Labor Market Effects of Short-Cycle Higher Education Programs: Lessons from Colombia</span> (with María Marta Ferreyra and Sergio Urzúa)
+<div style="font-size: 0.95em; margin-left: 1em;">
+</div>
+<div style="margin-left: 2em; font-weight: italics;">
+  Revised and Resubmitted at Journal of Human Capital.
+</div>
+<div class="threequarter-vertical-space"></div>
+<details title="show abstract">
+<summary>
+<span style="color: var(--global-theme-color); font-weight: bold;">[Abstract]</span>
+</summary>
+<div class="half-vertical-space"></div>
+<div style="margin-left: 2em;">
+  This paper estimates the labor market effects of short-cycle higher education programs in Colombia. Using a potential outcomes framework with partial monotonicity and multiple instruments, we exploit local variation in the availability of institutions specializing in short-cycle programs for identification. Access to these institutions significantly increases enrollment in short-cycle programs, primarily attracting students from the diversion margin, that is, those who would otherwise have enrolled in a bachelor’s program, rather than from the expansion margin, comprising students who would not have pursued higher education otherwise. Enrollment in short-cycle programs increases formal employment among male compliers relative to their next-best alternative, while effects on wages are not statistically significant.
+</div>
+</details>
+
+<div class="two-vertical-space"></div>
+<span style="font-size: 1.2em; font-weight: bold;">A Seat and a Meal: Dynamic Complementarities between Preschool and School Feeding in Colombia</span> (with Fabio Sánchez)
+<div style="font-size: 0.95em; margin-left: 1em;">
+</div>
+<div style="margin-left: 2em; font-weight: italics;">
+  Draft coming soon.
+</div>
+<div class="threequarter-vertical-space"></div>
+<details title="show abstract">
+<summary>
+<span style="color: var(--global-theme-color); font-weight: bold;">[Abstract]</span>
+</summary>
+<div class="half-vertical-space"></div>
+<div style="margin-left: 2em;">
+  This paper estimates the medium- and long-term impacts of preschool expansion in Colombia and examines whether early education can amplify the effectiveness of a later nutritional intervention. Using administrative data and plausibly exogenous variation in preschool availability, we find that preschool exposure reduces dropout, increases primary and secondary completion, improves test scores on the high school exit exam, and raises higher education enrollment. We then study its interaction with the staggered rollout of a national school feeding program (PAE) beginning in 2012. Students exposed to both interventions, particularly when PAE began in earlier grades, show decreases in dropout and larger gains in secondary completion and test scores, consistent with dynamic complementarity. These results suggest that early education can enhance the productivity of later investments in human capital.
+</div>
+</details>
+
+<div class="two-vertical-space"></div>
+<span style="font-size: 1.2em; font-weight: bold;">Challenging Traditions: understanding the environment and conflict in Africa</span> (with Angela Doku)
 <div style="font-size: 0.95em; margin-left: 1em;">
 </div>
 <div class="threequarter-vertical-space"></div>
@@ -75,9 +111,43 @@ nav_order: 1
 </summary>
 <div class="half-vertical-space"></div>
 <div style="margin-left: 2em;">
-  ABSTRACT 2
+  This paper explores the heterogeneous effects of changing weather patterns and access to natural resources from forestry on the prevalence of different types of conflict within African countries. Specifically, we focus on two types of conflict, which we define as conflicts of survival (i.e., pastoralist conflict) and conflicts of power (i.e., rebel conflict). First, we discuss theoretical implications of changes in the environment on conflict events via the Hawk-Dove framework. Empirically, we find that conflicts of survival are more sensitive to drier rainfall periods during the agricultural growing season, are more spontaneous, and that the mechanism explaining their occurrence is economic, through an agricultural channel.  Conflicts of power, on the other hand, are affected by weather patterns in both agricultural and non-agricultural areas, are less spontaneous, and are more affected by access to natural resources (i.e., rental capture) compared to conflicts of survival.  Mitigation strategies, such as irrigation, have divergent impacts: they lessen the impact of drier periods on conflicts of survival but exacerbate conflicts of power. These results suggests that a one-size fits-all conflict mitigation measure through climate adaptation may be unsuccessful for different types of conflict.
 </div>
 </details>
+
+## (selected) work in progress
+
+<div class="half-vertical-space"></div> <!-- Add a small vertical space here -->
+
+<span style="font-size: 0.95em; font-weight: bold;">Caregiver Mental Health and Early Childhood Development in Conflict-Affected Settings: Large Scale Experimental Evidence from Colombia</span> (with Bilge Erten, Pinar Keskin, Andrés Moya, and Semillas de Apego team)
+<div style="font-size: 0.95em; margin-left: 1em;">
+</div>
+</details>
+
+<div class="two-vertical-space"></div>
+<span style="font-size: 0.95em; font-weight: bold;">Does Anticipated Regret Affect Productivity and Decision Making? Evidence from Lab Experiments</span> (with Angela Doku and Chien-Yu Lai)
+<div style="font-size: 0.95em; margin-left: 1em;">
+</div>
+</details>
+
+<div class="two-vertical-space"></div>
+<span style="font-size: 0.95em; font-weight: bold;">Maternal health complications at delivery: Evidence from OBGYN services' closures in Colombia</span> (with Susana Otálvaro-Ramírez and Amalia Rodríguez-Valencia)
+<div style="font-size: 0.95em; margin-left: 1em;">
+</div>
+</details>
+
+<div class="two-vertical-space"></div>
+<span style="font-size: 0.95em; font-weight: bold;">We Are What We Teach: Breaking Gender Gaps with an Innovative Introductory to Economics Course</span> (with Julia Seither)
+<div style="font-size: 0.95em; margin-left: 1em;">
+</div>
+</details>
+
+<div class="two-vertical-space"></div>
+<span style="font-size: 0.95em; font-weight: bold;">Disentangling Climate- and Eco- Anxiety from General Anxiety in Young Adults: Findings from a National Survey</span> (with Sandra Aguilar-Gómez and Jorge Rodriguez-Arenas)
+<div style="font-size: 0.95em; margin-left: 1em;">
+</div>
+</details>
+
 
 <br>  <!-- Insert a line break here -->
 
