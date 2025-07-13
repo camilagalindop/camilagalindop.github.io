@@ -66,10 +66,8 @@ nav_order: 1
 
 <div class="two-vertical-space"></div>
 <span style="font-size: 1.2em; font-weight: bold;">Labor Market Effects of Short-Cycle Higher Education Programs: Lessons from Colombia</span> (with María Marta Ferreyra and Sergio Urzúa)
-<div style="font-size: 0.95em; margin-left: 1em;">
-</div>
-<div style="margin-left: 2em; font-weight: italics;">
-  Revised and Resubmitted at Journal of Human Capital.
+<div style="margin-left: 1em;">
+  Revised and Resubmitted at <code>Journal of Human Capital</code>..
 </div>
 <div class="threequarter-vertical-space"></div>
 <details title="show abstract">
