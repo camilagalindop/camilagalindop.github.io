@@ -34,5 +34,3 @@ I am an Assistant Professor of Economics at Universidad de los Andes.
 Previously, I was a Postdoctoral Scholar at the University of Chicago's Department of Economics and the John Mitchell Economics of Poverty Lab. I have also worked as a consultant for Latin America and Africa at the World Bank. I completed my PhD in Economics at the University of Maryland in 2021. 
 
 My research interests include labor economics, the economics of education, early childhood development, and applied econometrics.
-
-For more information, you can find my curriculum vitae [here](https://camilagalindop.github.io/assets/pdf/CV_CamilaGalindo.pdf) and contact me at <a href="mailto:camilagalindo@uniandes.edu.co">camilagalindo@uniandes.edu.co</a>.
