@@ -76,6 +76,7 @@ jobs:
         with:
           ruby-version: "3.3.5"
           bundler-cache: false
+          bundler-args: ""  # 👈 disables deployment/frozen mode
       - name: Setup Python 🐍
         uses: actions/setup-python@v5
         with:
