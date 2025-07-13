@@ -158,7 +158,7 @@ nav_order: 1
 <summary>
 <span style="color: var(--global-theme-color); font-weight: bold;">[Abstract]</span>
 &nbsp; <!-- Add a non-breaking space here -->
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4764978" title="go to paper">[Link]</a>
+<a href="https://iopscience.iop.org/article/10.1088/2752-5295/adcb62" title="go to paper">[Link]</a>
 </summary>
 <div class="half-vertical-space"></div>
 <div style="margin-left: 2em;">
@@ -166,6 +166,5 @@ nav_order: 1
 </div>
 </details>
 
-https://iopscience.iop.org/article/10.1088/2752-5295/adcb62
 
 <br>  <!-- Insert a line break here -->
