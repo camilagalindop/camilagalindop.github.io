@@ -84,7 +84,7 @@ nav_order: 1
 <span style="font-size: 1.2em; font-weight: bold;">A Seat and a Meal: Dynamic Complementarities between Preschool and School Feeding in Colombia</span> (with Fabio Sánchez)
 <div style="font-size: 0.95em; margin-left: 1em;">
 </div>
-<div style="margin-left: 2em; font-weight: italics;">
+<div style="margin-left: 1em;>
   Draft coming soon.
 </div>
 <div class="threequarter-vertical-space"></div>
@@ -113,6 +113,10 @@ nav_order: 1
 </div>
 </details>
 
+
+<br>  <!-- Insert a line break here -->
+
+
 ## (selected) work in progress
 
 <div class="half-vertical-space"></div> <!-- Add a small vertical space here -->
@@ -120,31 +124,26 @@ nav_order: 1
 <span style="font-size: 0.95em; font-weight: bold;">Caregiver Mental Health and Early Childhood Development in Conflict-Affected Settings: Large Scale Experimental Evidence from Colombia</span> (with Bilge Erten, Pinar Keskin, Andrés Moya, and Semillas de Apego team)
 <div style="font-size: 0.95em; margin-left: 1em;">
 </div>
-</details>
 
 <div class="two-vertical-space"></div>
 <span style="font-size: 0.95em; font-weight: bold;">Does Anticipated Regret Affect Productivity and Decision Making? Evidence from Lab Experiments</span> (with Angela Doku and Chien-Yu Lai)
 <div style="font-size: 0.95em; margin-left: 1em;">
 </div>
-</details>
 
 <div class="two-vertical-space"></div>
 <span style="font-size: 0.95em; font-weight: bold;">Maternal health complications at delivery: Evidence from OBGYN services' closures in Colombia</span> (with Susana Otálvaro-Ramírez and Amalia Rodríguez-Valencia)
 <div style="font-size: 0.95em; margin-left: 1em;">
 </div>
-</details>
 
 <div class="two-vertical-space"></div>
 <span style="font-size: 0.95em; font-weight: bold;">We Are What We Teach: Breaking Gender Gaps with an Innovative Introductory to Economics Course</span> (with Julia Seither)
 <div style="font-size: 0.95em; margin-left: 1em;">
 </div>
-</details>
 
 <div class="two-vertical-space"></div>
 <span style="font-size: 0.95em; font-weight: bold;">Disentangling Climate- and Eco- Anxiety from General Anxiety in Young Adults: Findings from a National Survey</span> (with Sandra Aguilar-Gómez and Jorge Rodriguez-Arenas)
 <div style="font-size: 0.95em; margin-left: 1em;">
 </div>
-</details>
 
 
 <br>  <!-- Insert a line break here -->
