@@ -138,8 +138,8 @@ nav_order: 1
 <span style="font-size: 0.95em; font-weight: bold;">We Are What We Teach: Breaking Gender Gaps with an Innovative Introductory to Economics Course</span> (with Julia Seither)
 <div style="font-size: 0.95em; margin-left: 1em;">
 <div style="margin-left: 1em;">
-  Supported by the [International Economic Association](https://www.iea-world.org/women-in-leadership-in-economics-initiative-iea-we/) and [TREES](https://trees.uniandes.edu.co/es/).
-<a href="https://www.iea-world.org/women-in-leadership-in-economics-initiative-iea-we/" title="go to paper">[International Economic Association]</a>
+  Supported by the <a href="https://www.iea-world.org/women-in-leadership-in-economics-initiative-iea-we/" title="go to paper">[International Economic Association]</a> and <a href="https://trees.uniandes.edu.co/" title="go to paper">[TREES]</a>.
+
 </div>
 </div>
 
@@ -156,7 +156,7 @@ nav_order: 1
 
 <div class="two-vertical-space"></div>
 <span style="font-size: 1em; font-weight: bold;">Gender Gaps in Knowledge, Attitudes, and Practices Related to Environmental Degradation in Colombia</span> (2025)
-<span style="font-size: 1em">, with Aguilar-Gomez, Juan Camilo Cardenas, Jorge Rodriguez-Arenas, and Daniela Vlasak-Gonzalez, <code>Environmental Research: Climate 4(2)</code> </span>
+<span style="font-size: 1em">, with Sandra Aguilar-Gómez, Juan Camilo Cardenas, Jorge Rodriguez-Arenas, and Daniela Vlasak-Gonzalez, <code>Environmental Research: Climate 4(2)</code> </span>
 
 
 <div class="threequarter-vertical-space"></div>
