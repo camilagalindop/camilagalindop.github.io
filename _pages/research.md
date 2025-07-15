@@ -137,6 +137,9 @@ nav_order: 1
 <div class="two-vertical-space"></div>
 <span style="font-size: 0.95em; font-weight: bold;">We Are What We Teach: Breaking Gender Gaps with an Innovative Introductory to Economics Course</span> (with Julia Seither)
 <div style="font-size: 0.95em; margin-left: 1em;">
+<div style="margin-left: 1em;">
+  Supported by the [International Economic Association](https://www.iea-world.org/women-in-leadership-in-economics-initiative-iea-we/) and [TREES](https://trees.uniandes.edu.co/es/).
+</div>
 </div>
 
 <div class="two-vertical-space"></div>
