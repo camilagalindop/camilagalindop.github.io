@@ -139,6 +139,7 @@ nav_order: 1
 <div style="font-size: 0.95em; margin-left: 1em;">
 <div style="margin-left: 1em;">
   Supported by the [International Economic Association](https://www.iea-world.org/women-in-leadership-in-economics-initiative-iea-we/) and [TREES](https://trees.uniandes.edu.co/es/).
+<a href="https://www.iea-world.org/women-in-leadership-in-economics-initiative-iea-we/" title="go to paper">[International Economic Association]</a>
 </div>
 </div>
 
