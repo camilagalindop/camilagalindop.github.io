@@ -69,7 +69,7 @@ nav_order: 1
 <div class="two-vertical-space"></div>
 <span style="font-size: 1.2em; font-weight: bold;">Labor Market Effects of Short-Cycle Higher Education Programs: Lessons from Colombia</span> (with [María Marta Ferreyra](https://sites.google.com/site/mariamartaferreyraphd/) and [Sergio Urzúa](https://econweb.umd.edu/~urzua/))
 <div style="margin-left: 1em;">
-  Revised and Resubmitted at <code>Journal of Human Capital</code>.
+  Forthcoming at <code>Journal of Human Capital</code>.
 </div>
 <div class="threequarter-vertical-space"></div>
 <details title="show abstract">
@@ -85,18 +85,19 @@ nav_order: 1
 </details>
 
 <div class="two-vertical-space"></div>
-<span style="font-size: 1.2em; font-weight: bold;">A Seat and a Meal: Dynamic Complementarities between Preschool and School Feeding in Colombia</span> (with [Fabio Sánchez](https://sites.google.com/view/fabio-sanchez-torres))
+<span style="font-size: 1.2em; font-weight: bold;">Dynamic Complementarities between Preschool and School Feeding: Long-Term Evidence on Human Capital Formation</span> (with [Fabio Sánchez](https://sites.google.com/view/fabio-sanchez-torres))
 <div style="margin-left: 1em;">
-  Draft coming soon.
 </div>
 <div class="threequarter-vertical-space"></div>
 <details title="show abstract">
 <summary>
 <span style="color: var(--global-theme-color); font-weight: bold;">[Abstract]</span>
+&nbsp; <!-- Add a non-breaking space here -->
+<a href="/assets/pdf/CGP_FS_oct17.pdf" title="go to paper">[PDF]</a>
 </summary>
 <div class="half-vertical-space"></div>
 <div style="margin-left: 2em;">
-  This paper estimates the medium- and long-term impacts of preschool expansion in Colombia and examines whether early education can amplify the effectiveness of a later nutritional intervention. Using administrative data and plausibly exogenous variation in preschool availability, we find that preschool exposure reduces dropout, increases primary and secondary completion, improves test scores on the high school exit exam, and raises higher education enrollment. We then study its interaction with the staggered rollout of a national school feeding program (PAE) beginning in 2012. Students exposed to both interventions, particularly when PAE began in earlier grades, show decreases in dropout and larger gains in secondary completion and test scores, consistent with dynamic complementarity. These results suggest that early education can enhance the productivity of later investments in human capital.
+  We study whether two large-scale educational investments act as complements in the production of human capital. We combine the staggered expansion of public preschools in Colombia from 2005 to 2015 with the subsequent scale-up of the national school feeding program beginning in 2012. Using nearly two decades of administrative records on educational trajectories, we find that these investments are complementary for academic progression: students exposed to preschool are more likely to complete grades 9 and 11, less likely to drop out, and more likely to enroll in higher education, when later exposed to school feeding. Complementarities in test scores emerge when school feeding is introduced shortly after preschool, and earlier exposure also amplifies the effects on grade completion, dropout, and post-secondary enrollment. While preschool alone has limited effects, school feeding alone yields sizable medium- and longer-term gains, suggesting that later investments can partially remediate the absence of early ones.
 </div>
 </details>
 
