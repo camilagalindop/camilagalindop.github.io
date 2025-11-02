@@ -50,7 +50,8 @@ nav_order: 1
 <div class="half-vertical-space"></div> <!-- Add a small vertical space here -->
 
 <span style="font-size: 1.2em; font-weight: bold;">Conditional Response Types and the Identification of Multivalued Treatment Effects</span>
-<div style="font-size: 0.95em; margin-left: 1em;">
+<div style="margin-left: 1em;">
+  Submitted.
 </div>
 <div class="threequarter-vertical-space"></div>
 <details title="show abstract">
