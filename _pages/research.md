@@ -107,7 +107,7 @@ nav_order: 1
 
 <div class="half-vertical-space"></div> <!-- Add a small vertical space here -->
 
-<span style="font-size: 0.95em; font-weight: bold;">Caregiver Mental Health and Early Childhood Development in Conflict-Affected Settings: Large Scale Experimental Evidence from Colombia</span> (with Bilge Erten, Pinar Keskin, Andrés Moya, and Semillas de Apego team)
+<span style="font-size: 0.95em; font-weight: bold;">Caregiver Mental Health and Early Childhood Development in Conflict-Affected Settings: Large Scale Experimental Evidence from Colombia</span> (with Mariana Bonet, Bilge Erten, Pinar Keskin, and Andrés Moya)
 <div style="font-size: 0.95em; margin-left: 1em;">
 </div>
 
@@ -142,7 +142,7 @@ nav_order: 1
 ## publications
 
 <div class="two-vertical-space"></div>
-<span style="font-size: 1em; font-weight: bold;">Labor Market Effects of Short-Cycle Higher Education Programs: Lessons from Colombia</span> (with [María Marta Ferreyra](https://sites.google.com/site/mariamartaferreyraphd/) and [Sergio Urzúa](https://econweb.umd.edu/~urzua/))
+<span style="font-size: 1em; font-weight: bold;">Labor Market Effects of Short-Cycle Higher Education Programs: Lessons from Colombia</span> ,with [María Marta Ferreyra](https://sites.google.com/site/mariamartaferreyraphd/) and [Sergio Urzúa](https://econweb.umd.edu/~urzua/)
 <div style="margin-left: 1em;">
   Forthcoming at <code>Journal of Human Capital</code>.
 </div>
