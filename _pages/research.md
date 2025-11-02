@@ -142,6 +142,24 @@ nav_order: 1
 ## publications
 
 <div class="two-vertical-space"></div>
+<span style="font-size: 1.2em; font-weight: bold;">Labor Market Effects of Short-Cycle Higher Education Programs: Lessons from Colombia</span> (with [María Marta Ferreyra](https://sites.google.com/site/mariamartaferreyraphd/) and [Sergio Urzúa](https://econweb.umd.edu/~urzua/))
+<div style="margin-left: 1em;">
+  Forthcoming at <code>Journal of Human Capital</code>.
+</div>
+<div class="threequarter-vertical-space"></div>
+<details title="show abstract">
+<summary>
+<span style="color: var(--global-theme-color); font-weight: bold;">[Abstract]</span>
+&nbsp; <!-- Add a non-breaking space here -->
+<a href="https://www.nber.org/papers/w30178" title="go to paper">[NBER Working Paper]</a>
+</summary>
+<div class="half-vertical-space"></div>
+<div style="margin-left: 2em;">
+  This paper estimates the labor market effects of short-cycle higher education programs in Colombia. Using a potential outcomes framework with partial monotonicity and multiple instruments, we exploit local variation in the availability of institutions specializing in short-cycle programs for identification. Access to these institutions significantly increases enrollment in short-cycle programs, primarily attracting students from the diversion margin, that is, those who would otherwise have enrolled in a bachelor’s program, rather than from the expansion margin, comprising students who would not have pursued higher education otherwise. Enrollment in short-cycle programs increases formal employment among male compliers relative to their next-best alternative, while effects on wages are not statistically significant.
+</div>
+</details>
+
+<div class="two-vertical-space"></div>
 <span style="font-size: 1em; font-weight: bold;">Gender Gaps in Knowledge, Attitudes, and Practices Related to Environmental Degradation in Colombia</span> (2025)
 <span style="font-size: 1em">, with Sandra Aguilar-Gómez, Juan Camilo Cardenas, Jorge Rodriguez-Arenas, and Daniela Vlasak-Gonzalez, <code>Environmental Research: Climate 4(2)</code> </span>
 
@@ -159,23 +177,5 @@ nav_order: 1
 </div>
 </details>
 
-
-<div class="two-vertical-space"></div>
-<span style="font-size: 1.2em; font-weight: bold;">Labor Market Effects of Short-Cycle Higher Education Programs: Lessons from Colombia</span> (with [María Marta Ferreyra](https://sites.google.com/site/mariamartaferreyraphd/) and [Sergio Urzúa](https://econweb.umd.edu/~urzua/))
-<div style="margin-left: 1em;">
-  Forthcoming at <code>Journal of Human Capital</code>.
-</div>
-<div class="threequarter-vertical-space"></div>
-<details title="show abstract">
-<summary>
-<span style="color: var(--global-theme-color); font-weight: bold;">[Abstract]</span>
-&nbsp; <!-- Add a non-breaking space here -->
-<a href="https://www.nber.org/papers/w30178" title="go to paper">[NBER Working Paper]</a>
-</summary>
-<div class="half-vertical-space"></div>
-<div style="margin-left: 2em;">
-  This paper estimates the labor market effects of short-cycle higher education programs in Colombia. Using a potential outcomes framework with partial monotonicity and multiple instruments, we exploit local variation in the availability of institutions specializing in short-cycle programs for identification. Access to these institutions significantly increases enrollment in short-cycle programs, primarily attracting students from the diversion margin, that is, those who would otherwise have enrolled in a bachelor’s program, rather than from the expansion margin, comprising students who would not have pursued higher education otherwise. Enrollment in short-cycle programs increases formal employment among male compliers relative to their next-best alternative, while effects on wages are not statistically significant.
-</div>
-</details>
 
 <br>  <!-- Insert a line break here -->
