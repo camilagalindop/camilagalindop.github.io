@@ -50,7 +50,7 @@ nav_order: 1
 <div class="half-vertical-space"></div> <!-- Add a small vertical space here -->
 
 <div class="two-vertical-space"></div>
-<span style="font-size: 1.2em; font-weight: bold;">Dynamic Complementarities between Preschool and School Feeding: Long-Term Evidence on Human Capital Formation</span> (with [Fabio Sánchez](https://sites.google.com/view/fabio-sanchez-torres))
+<span style="font-size: 1.2em; font-weight: bold;">Dynamic Complementarities in Human Capital Formation: Long-Term Evidence from Preschool and School Feeding</span> (with [Fabio Sánchez](https://sites.google.com/view/fabio-sanchez-torres))
 <div style="margin-left: 1em;">
 </div>
 <div class="threequarter-vertical-space"></div>
@@ -62,7 +62,7 @@ nav_order: 1
 </summary>
 <div class="half-vertical-space"></div>
 <div style="margin-left: 2em;">
-  We study whether two large-scale educational investments act as complements in the production of human capital. We combine the staggered expansion of public preschools in Colombia from 2005 to 2015 with the subsequent scale-up of the national school feeding program beginning in 2012. Using nearly two decades of administrative records on educational trajectories, we find that these investments are complementary for academic progression: students exposed to preschool are more likely to complete grades 9 and 11, less likely to drop out, and more likely to enroll in higher education, when later exposed to school feeding. Complementarities in test scores emerge when school feeding is introduced shortly after preschool, and earlier exposure also amplifies the effects on grade completion, dropout, and post-secondary enrollment. While preschool alone has limited effects, school feeding alone yields sizable medium- and longer-term gains, suggesting that later investments can partially remediate the absence of early ones.
+  We study whether two large-scale educational investments act as complements in the production of human capital. We combine the staggered expansion of public preschools in Colombia with the subsequent decentralized roll-out of the national school feeding program. Using nearly two decades of administrative records on educational trajectories, we find that these investments are complementary for academic progression: students exposed to preschool are more likely to complete grades 9 and 11, less likely to drop out, and more likely to enroll in higher education when also exposed to school feeding. These complementarities are larger when school feeding is introduced shortly after preschool and fade when introduced in secondary school. Consistent with this timing sensitivity, complementarities in academic performance on the high school exit exam are absent on average but emerge if school feeding is introduced by the end of primary school. While preschool alone has limited effects, school feeding alone yields sizable medium- and long-term gains, suggesting that later investments can partially remediate the absence of early ones.
 </div>
 </details>
 
