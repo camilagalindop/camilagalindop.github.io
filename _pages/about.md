@@ -9,9 +9,8 @@ profile:
   image: Galindo_Bogota_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Universidad de los Andes</p>
-    <p>Office W-914</p>
-    <p>Calle 19A No 1-37 Este, Bogotá</p>
+    <p>LUISS</p>
+    <p>Viale Romania 32, 00197 Rome</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -27,10 +26,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an Assistant Professor of Economics at Universidad de los Andes. 
+I am a Visiting Assistant Professor of Economics at LUISS. 
 
-Previously, I was a Postdoctoral Scholar at the University of Chicago's Department of Economics and the John Mitchell Economics of Poverty Lab. I have also worked as a consultant for Latin America and Africa at the World Bank. I completed my PhD in Economics at the University of Maryland in 2021. 
+Previously, I was an Assistant Professor at Universidad de los Andes and a Postdoctoral Scholar at the University of Chicago’s Department of Economics and the John Mitchell Economics of Poverty Lab. I have also worked as a consultant for Latin America and Africa at the World Bank. I completed my PhD in Economics at the University of Maryland. 
 
 My research interests include labor economics, the economics of education, early childhood development, and applied econometrics.
 
-For more information, you can find my curriculum vitae [here](assets/pdf/CV_CamilaGalindo.pdf) and contact me at <a href="mailto:camilagalindo@uniandes.edu.co">camilagalindo@uniandes.edu.co</a>.
+For more information, you can find my curriculum vitae [here](assets/pdf/CV_CamilaGalindo.pdf) and contact me at <a href="mailto:cgalindo@luiss.it">cgalindo@luiss.it</a>.
