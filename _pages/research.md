@@ -50,7 +50,7 @@ nav_order: 1
 <div class="half-vertical-space"></div> <!-- Add a small vertical space here -->
 
 <div class="two-vertical-space"></div>
-<span style="font-size: 1.2em; font-weight: bold;">Dynamic Complementarities in Human Capital Formation: Long-Term Evidence from Preschool and School Feeding</span> (with [Fabio Sánchez](https://sites.google.com/view/fabio-sanchez-torres))
+<span style="font-size: 1.2em; font-weight: bold;">Policy Complementarities in Human Capital Formation: Long-Term Evidence from Preschool and School Feeding</span> (with [Fabio Sánchez](https://sites.google.com/view/fabio-sanchez-torres))
 <div style="margin-left: 1em;">
 </div>
 <div class="threequarter-vertical-space"></div>
@@ -87,7 +87,10 @@ nav_order: 1
 
 
 <div class="two-vertical-space"></div>
-<span style="font-size: 1.2em; font-weight: bold;">Challenging Traditions: Understanding the Environment and Conflict in Africa</span> (with [Angela Doku](https://sites.google.com/view/angeladoku/home?authuser=0))
+<span style="font-size: 1.2em; font-weight: bold;">Domestic Air Links and Economic Opportunity</span> (with Jorge Rodríguez-Arenas)
+<div style="margin-left: 1em;">
+  Draft coming soon.
+</div>
 <div class="threequarter-vertical-space"></div>
 <details title="show abstract">
 <summary>
@@ -95,7 +98,7 @@ nav_order: 1
 </summary>
 <div class="half-vertical-space"></div>
 <div style="margin-left: 2em;">
-  This paper explores the heterogeneous effects of changing weather patterns and access to natural resources from forestry on the prevalence of different types of conflict within African countries. Specifically, we focus on two types of conflict, which we define as conflicts of survival (i.e., pastoralist conflict) and conflicts of power (i.e., rebel conflict). First, we discuss theoretical implications of changes in the environment on conflict events via the Hawk-Dove framework. Empirically, we find that conflicts of survival are more sensitive to drier rainfall periods during the agricultural growing season, are more spontaneous, and that the mechanism explaining their occurrence is economic, through an agricultural channel.  Conflicts of power, on the other hand, are affected by weather patterns in both agricultural and non-agricultural areas, are less spontaneous, and are more affected by access to natural resources (i.e., rental capture) compared to conflicts of survival.  Mitigation strategies, such as irrigation, have divergent impacts: they lessen the impact of drier periods on conflicts of survival but exacerbate conflicts of power. These results suggests that a one-size fits-all conflict mitigation measure through climate adaptation may be unsuccessful for different types of conflict.
+  Transport connectivity can expand opportunities for young people. We study a large-scale expansion of domestic air links in Colombia, where small-capacity aircraft connected poorly accessible municipalities to new destinations. We leverage the staggered opening of air links and rich administrative records on the universe of 2000–2019 high-school graduates. In a matched difference-in-differences, new air links increase higher education enrollment and graduation, reduce early fertility, and increase formal employment and earnings. We benchmark air links against the staggered opening of local campuses: new campuses affect education but not fertility or employment. Air links yield broader benefits by improving student-program matches and the quality of local services.
 </div>
 </details>
 
@@ -112,7 +115,7 @@ nav_order: 1
 </div>
 
 <div class="two-vertical-space"></div>
-<span style="font-size: 0.95em; font-weight: bold;">Does Anticipated Regret Affect Productivity and Decision Making? Evidence from Lab Experiments</span> (with Angela Doku and Chien-Yu Lai)
+<span style="font-size: 0.95em; font-weight: bold;">How Financial Aid Design Shapes Fertility: Evidence from Colombia’s Higher-Education Scholarships</span> (with Lelys Dinarte-Diaz, Jorge Rodríguez-Arenas, and Iván Velasquez)
 <div style="font-size: 0.95em; margin-left: 1em;">
 </div>
 
@@ -142,22 +145,22 @@ nav_order: 1
 ## publications
 
 <div class="two-vertical-space"></div>
-<span style="font-size: 1em; font-weight: bold;">Labor Market Effects of Short-Cycle Higher Education Programs: Lessons from Colombia</span>, with [María Marta Ferreyra](https://sites.google.com/site/mariamartaferreyraphd/) and [Sergio Urzúa](https://econweb.umd.edu/~urzua/)
-<div style="margin-left: 1em;">
-  Forthcoming at <code>Journal of Human Capital</code>.
-</div>
+<span style="font-size: 1em; font-weight: bold;">Labor Market Effects of Short-Cycle Higher Education Programs: Lessons from Colombia</span>, with [María Marta Ferreyra](https://sites.google.com/site/mariamartaferreyraphd/) and [Sergio Urzúa](https://econweb.umd.edu/~urzua/),<code>Journal of Human Capital</code> </span>
+
+
 <div class="threequarter-vertical-space"></div>
 <details title="show abstract">
 <summary>
 <span style="color: var(--global-theme-color); font-weight: bold;">[Abstract]</span>
 &nbsp; <!-- Add a non-breaking space here -->
-<a href="https://www.nber.org/papers/w30178" title="go to paper">[NBER Working Paper]</a>
+<a href="https://doi.org/10.1086/742706" title="go to paper">[Link]</a>
 </summary>
 <div class="half-vertical-space"></div>
 <div style="margin-left: 2em;">
   This paper estimates the labor market effects of short-cycle higher education programs in Colombia. Using a potential outcomes framework with partial monotonicity and multiple instruments, we exploit local variation in the availability of institutions specializing in short-cycle programs for identification. Access to these institutions significantly increases enrollment in short-cycle programs, primarily attracting students from the diversion margin, that is, those who would otherwise have enrolled in a bachelor’s program, rather than from the expansion margin, comprising students who would not have pursued higher education otherwise. Enrollment in short-cycle programs increases formal employment among male compliers relative to their next-best alternative, while effects on wages are not statistically significant.
 </div>
 </details>
+
 
 <div class="two-vertical-space"></div>
 <span style="font-size: 1em; font-weight: bold;">Gender Gaps in Knowledge, Attitudes, and Practices Related to Environmental Degradation in Colombia</span> (2025)
