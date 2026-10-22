@@ -145,7 +145,7 @@ nav_order: 1
 ## publications
 
 <div class="two-vertical-space"></div>
-<span style="font-size: 1em; font-weight: bold;">Labor Market Effects of Short-Cycle Higher Education Programs: Lessons from Colombia</span>, with [María Marta Ferreyra](https://sites.google.com/site/mariamartaferreyraphd/) and [Sergio Urzúa](https://econweb.umd.edu/~urzua/),<code>Journal of Human Capital</code> </span>
+<span style="font-size: 1em; font-weight: bold;">Labor Market Effects of Short-Cycle Higher Education Programs: Lessons from Colombia</span>, with [María Marta Ferreyra](https://sites.google.com/site/mariamartaferreyraphd/) and [Sergio Urzúa](https://econweb.umd.edu/~urzua/),<code>Journal of Human Capital</code>
 
 
 <div class="threequarter-vertical-space"></div>
